@@ -1,3 +1,3 @@
-module github.com/MinoIC/go-fitz
+module github.com/minoic/go-fitz
 
 go 1.16
